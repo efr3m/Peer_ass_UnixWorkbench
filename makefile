@@ -9,6 +9,7 @@ README.md:
 	echo "Make was run on: $$(date)" >> README.md
 	echo "" >> README.md
 	echo "The code in the guessinggame.sh script I created contains 30 lines, and includes:" >> README.md
+	echo "" >> README.md
 	echo "1. one function" >> README.md
 	echo "2. one loop" >> README.md
 	echo "3. one if statment" >> README.md
